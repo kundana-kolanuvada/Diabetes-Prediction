@@ -34,6 +34,7 @@ The project includes:
 
 **Dataset Used:** PIMA Indians Diabetes Dataset
 https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
+
 The dataset contains the following features:
 
 - Pregnancies
