@@ -23,8 +23,7 @@ The project includes:
 | Category | Technology Used |
 |---|---|
 | Programming Language | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
-| Data Analysis | ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) |
-| Data Visualization | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?logo=python&logoColor=white) |
+| Data Analysis | ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)|
 | Machine Learning | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white) |
 | Notebook Environment | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) |
 | Development Environment | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white) |
