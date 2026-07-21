@@ -105,8 +105,3 @@ The trained Machine Learning model predicts whether a patient is diabetic based 
 - Feature engineering
 - Deploy using Streamlit or Flask
 - Build an interactive web application
-
-
-## License
-
-This project is intended for educational and learning purposes.
